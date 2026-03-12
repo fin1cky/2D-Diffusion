@@ -80,11 +80,10 @@ Loads weights from `model_{dataset}.pt` by default. Runs DDPM (full 1000 steps),
 
 Plots saved to `plots/`: `ddpm_samples_{dataset}.png`, `ddim_samples_{dataset}.png`, `gamma_sweep_{dataset}.png`
 
-## REFERENCES
-
-[1] Denoising Diffusion Probabilistic Models - Ho et al.  
-[2] Improved Denoising Diffusion Probabilistic Models - Alex Nichol and Prafulla Dhariwal  
-[3] Attention Is All You Need - Vaswani et al.  
-[4] Denoising Diffusion Implicit Models - Song et al.
+## References
+[1] [Denoising Diffusion Probabilistic Models — Ho et al.](https://arxiv.org/abs/2006.11239)  
+[2] [Improved Denoising Diffusion Probabilistic Models — Nichol & Dhariwal.](https://arxiv.org/abs/2102.09672)  
+[3] [Attention Is All You Need — Vaswani et al.](https://arxiv.org/abs/1706.03762)  
+[4] [Denoising Diffusion Implicit Models — Song et al.](https://arxiv.org/abs/2010.02502)
 
 ChatGPT 5.2 Thinking, Claude Opus 4.6
