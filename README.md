@@ -17,7 +17,8 @@ The code is originally written in notebooks/2D_Diffusion.ipynb. It has detailed 
 ### Moons
 ![Moons](assets/gifs/moons.gif)
 
-Goal: Develop an intuition for diffusion models by implementing DDPM training + DDPM/DDIM sampling from scratch on simple 2D distributions.
+**Goal**  
+Develop an intuition for diffusion models by implementing DDPM training + DDPM/DDIM sampling from scratch on simple 2D distributions.
 
 **Datasets**
 - Circles, two-moons, and an Archimedean spiral (with small additive noise to avoid an infinitely thin manifold).
