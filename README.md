@@ -2,7 +2,7 @@
 
 **NOTE:** Simple Diffusion model for 2D data.  
 
-The code is originally written in notebooks\2D_Diffusion.ipynb. It has detailed information about each step of the diffusion process along with comments in the code. The repo is simply the code present in the notebook organized.  
+The code is originally written in notebooks/2D_Diffusion.ipynb. It has detailed information about each step of the diffusion process along with comments in the code. The repo is simply the code present in the notebook organized.  
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fin1cky/2D-Diffusion/blob/main/notebooks/2D_Diffusion.ipynb)
 
