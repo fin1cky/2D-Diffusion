@@ -85,5 +85,3 @@ Plots saved to `plots/`: `ddpm_samples_{dataset}.png`, `ddim_samples_{dataset}.p
 [2] [Improved Denoising Diffusion Probabilistic Models — Nichol & Dhariwal.](https://arxiv.org/abs/2102.09672)  
 [3] [Attention Is All You Need — Vaswani et al.](https://arxiv.org/abs/1706.03762)  
 [4] [Denoising Diffusion Implicit Models — Song et al.](https://arxiv.org/abs/2010.02502)
-
-ChatGPT 5.2 Thinking, Claude Opus 4.6
