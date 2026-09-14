@@ -25,7 +25,7 @@ Develop an intuition for diffusion models by implementing DDPM training + DDPM/D
 
 **Forward process**
 - Cosine schedule to define $\beta_t$ and cumulative signal $\bar{\alpha_t}$.
-- Efficient noising using the closed-form marginal: $x_t = \sqrt{\bar{\alpha_t}}x_{\theta} + \sqrt{(1-\bar{\alpha_t})} \epsilon$.
+- Efficient noising using the closed-form marginal: $x_t = \sqrt{\bar{\alpha_t}}x_{0} + \sqrt{(1-\bar{\alpha_t})} \epsilon$.
 
 **Model + objective**
 - Sinusoidal timestep embeddings.
